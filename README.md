@@ -1,6 +1,7 @@
 # 100 Days of Coding Challenge
 
-![100 Days of Coding Logo]([https://drive.google.com/uc?export=download&id=your-file-id](https://drive.google.com/file/d/1UVp9EOP5-BO55UDm7oORXo8v0ZOtX2i9/uc?export=download))
+![100 Days of Coding Logo](https://drive.google.com/file/d/1UVp9EOP5-BO55UDm7oORXo8v0ZOtX2i9/view?usp=drive_link)
+
 
 Welcome to my 100 Days of Coding Challenge! 🚀
 
