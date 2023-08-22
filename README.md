@@ -1,8 +1,5 @@
 # 100 Days of Coding Challenge
 
-![100 Days of Coding Logo](https://drive.google.com/uc?export=download&id=1UVp9EOP5-BO55UDm7oORXo8v0ZOtX2i9)
-
-
 Welcome to my 100 Days of Coding Challenge! 🚀
 
 ## What is this challenge all about?
