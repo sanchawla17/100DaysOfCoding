@@ -29,8 +29,8 @@ I encourage you to join this challenge with me! Feel free to fork this repositor
 ## Connect with Me
 
 Let's connect and code together:
-- LinkedIn: [Sanyam Chawla](https://www.linkedin.com/in/sanyam-chawla-b6b34019b/)
-- Leetcode: [Sanyam Chawla](https://leetcode.com/SanyamChawla/)
+- [LinkedIn](https://www.linkedin.com/in/sanyam-chawla-b6b34019b/)
+- [Leetcode](https://leetcode.com/SanyamChawla/)
 
 ## Have Questions or Ideas?
 
